@@ -1,1 +1,0 @@
-# This shoudl include a basic bag-of-words classifier with mock text data.
