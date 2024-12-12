@@ -10,4 +10,3 @@ pip install lckr-jupyterlab-variableinspector
 pip install jupyterlab-drawio
 pip install aquirdturtle_collapsible_headings
 jupyter labextension install jupyterlab-spreadsheet
-
